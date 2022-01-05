@@ -1,4 +1,4 @@
-## Oi eu sou a Lucas Martins, Bacharel em Sistemas de Informação
+## Oi eu sou Lucas Martins, Bacharel em Sistemas de Informação
 <div align="center">
   <a href="https://github.com/lucas10011">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas10011&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
